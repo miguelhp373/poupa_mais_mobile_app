@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "238636978293",
+    "project_id": "poupa-mais-app",
+    "storage_bucket": "poupa-mais-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238636978293:android:0404eaafbb6f3e0339283c",
+        "android_client_info": {
+          "package_name": "br.com.miguelhp.poupa_mais_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238636978293-vs60vl3e0o7h0m24t0nnelhlk8q8let8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.miguelhp.poupa_mais_mobile_app",
+            "certificate_hash": "a9688273ab40db2a45f9ed5ade1a625f3932eee8"
+          }
+        },
+        {
+          "client_id": "238636978293-cf6717efupmmlub5r66k51h5bm364udu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgfX1bgpac1MdpnaYRPPYTshX_NuRiQBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238636978293-cf6717efupmmlub5r66k51h5bm364udu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
